@@ -1,3 +1,3 @@
 # Face-Detection
 
-# ESC TO EXIT
+# **ESC** TO EXIT
